@@ -14,7 +14,7 @@
 <a href="https://www.leetcode.com/minilnur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minilnur" height="30" width="40" /></a>
 </p>
 <p align="left">
-  [![codewars](https://www.codewars.com/users/minilnur/badges/large)](https://www.codewars.com/users/minilnur)
+  [![codewars](https://www.codewars.com/users/minilnur/badges/large)](https://www.codewars.com/minilnur/username)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -19,7 +19,7 @@
 
 
 <h3 align="left">Project Information:</h3>
-<p align="left">Simple 3D Flappy Bird Game</p>
+<p align="left">Simple 3D Flappy Bird Game. Main Challenge in this game is to create Object Pool for several different types of GameObjects. Here is <a href="https://learn.unity.com/tutorial/introduction-to-object-pooling#"> link </a> on topic explanation  There are other ways to implement ObjectPooling in your project too but I stopped at the one above. Assets used in the project can be found in <a href="https://assetstore.unity.com/"> Unity Assetstore</a> There is still no any sound effects in game that means it is work for future updates </p>
 <h3 align="left">How to Download</h3>
 <p align="left">git clone https://github.com/IlnurMingaleev/FlappyBird3D.git<p>
 <p align="left">A folder with the project contents will be created in the current path. Then you just open it with Unity. You'll have an Assets folder somewhere inside your project folder, the parent of this Asset folder should be the Unity project folder, so just browse to it on Unity and open it.<p>
